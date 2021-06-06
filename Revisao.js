@@ -1,4 +1,5 @@
 console.log('-----------------------------------------------------')
+console.log('-----------------------------------------------------')
 console.log('Olá, mundo! Revisão de JavaScript e Introdução a ES6!')
 console.log('-----------------------------------------------------')
 
@@ -12,7 +13,7 @@ console.log('Funções')
 // Agora vamos refatorar essas funções para a sintaxe de Arrow function
 
 
-console.log('-----------------------------------------------------')
+console.log('--------------------------------------------------------------')
 // ----------------------------------------------
 
 console.log('Callback')
